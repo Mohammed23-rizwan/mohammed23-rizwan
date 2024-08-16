@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/234527/pexels-photo-234527.jpeg)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:800/1*iLa3E1yYHoYhOloCqQv36Q.png)]
 
 <h1 align="center">Hi 👋, I'm Mohammed Rizwan S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
